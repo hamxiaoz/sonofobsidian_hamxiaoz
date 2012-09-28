@@ -14,7 +14,7 @@ hi Comment          guifg=#99AA8A
 " hi Normal           guifg=#FFFFFF guibg=#22282A "sonofobsidian
 " hi Normal           guifg=Grey50 guibg=Grey10 " borrowed from macvim.
 " hi Normal		guifg=#d0d0d0	guibg=#202020	" peaksea
-hi Normal		guifg=#d0d0d0	guibg=Grey10 " #22282A	" peaksea + sonofobsidian bg
+hi Normal		guifg=#d0d0d0	guibg=#22282A	" peaksea + sonofobsidian bg
 hi Title        guifg=#D92672 " change the title's color by hamxiaoz
 hi CursorLine       guibg=#32383A
 hi CursorColumn     guibg=#32383A
@@ -39,8 +39,8 @@ hi xmlCdata         guifg=#99A38A
 hi xmlAttrib        guifg=#678CB1
 hi htmlTagName      guifg=#93C763
 hi htmlArg          guifg=#678CB1
-hi ErrorMsg         guifg=#FF0000
-hi WarningMsg       guifg=#FFCD22
+hi ErrorMsg                       guibg=#FF0000
+hi WarningMsg                     guibg=#FFCD22
 hi Folded           guifg=#808080 guibg=#1C2325
 hi PMenu            guifg=#CCCCFF guibg=#1C2325
 hi PMenuSel         guibg=#2C3335
